@@ -1,5 +1,5 @@
 {
-    "name": "be-park/socialite-azure-oauth",
+    "name": "caredfor/socialite-azure-oauth",
     "description": "Allow multi connection to azure AD using socialite of Laravel",
     "type": "library",
     "license": "MIT",
